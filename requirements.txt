@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+requests
+httpx
+asyncpg
+pytest
+pydantic_settings
+responses
+pydantic
+respx
+pytest-mock
