@@ -9,7 +9,6 @@ import requests
 router = APIRouter(prefix="/health", tags=["Health"])
 
 
-
 @router.get("",
             response_model=HealthResponse,
             summary="Check application and external API status.",
