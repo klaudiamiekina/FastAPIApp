@@ -15,7 +15,7 @@ Aby uruchomić aplikację, potrzebne są następujące narzędzia i środowiska:
 
 * Sklonuj repozytorium:  
   `git clone https://github.com/klaudiamiekina/FastAPIApp.git`  
-  `cd <nazwa_sklonowanego_folderu\>`  
+  `cd <nazwa_sklonowanego_folderu>`  
 * Uruchom docker desktop \- jeżeli nie korzystasz z Linuxa  
 * Zbuduj i uruchom kontenery Dockerowe:  
   `docker-compose up --build -d`  
